@@ -20,3 +20,5 @@ gradio
 torchmetrics
 encodec
 streamlit
+flask
+flask-streamlit
